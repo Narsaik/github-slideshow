@@ -15,7 +15,7 @@
 | **Flights (Round Trip)** | $2,400 - $3,000 | 2 adults + infant lap seat |
 | **Pet Transport (2 dogs)** | $1,500 - $2,500 | Cargo via Air Canada |
 | **Accommodation (3 months)** | $2,400 - $3,600 | ~$800-1,200/month long-term rental |
-| **Car Rental (3 months)** | $1,200 - $1,800 | ~$400-600/month with Localiza/Movida |
+| **Car Rental (3 months)** | $1,080 - $1,500 | ~$360-500/month with Unidas |
 | **Pet Supplies & Vet** | $400 - $600 | Vaccines, certificates, supplies |
 | **Daily Expenses** | $1,500 - $2,000 | Food, gas, activities (~$500-650/month) |
 | **Emergency Fund** | $500 | Buffer for unexpected costs |
@@ -164,6 +164,95 @@
 
 ---
 
+## 3 Additional Destination Options
+
+### 1. Joao Pessoa, Paraiba (BEST BUDGET CHOICE)
+
+**Why Choose Joao Pessoa:**
+- **Cheapest major city** for digital nomads in Brazil
+- Fiber internet up to 500 Mbps widely available
+- Beautiful beaches with fewer tourists
+- Easternmost point of the Americas (first to see sunrise)
+- Very safe, relaxed atmosphere
+- Growing expat community
+
+**Monthly Costs:**
+- Rent: $400-600 USD (furnished 2BR apartment)
+- Groceries: ~$200/month
+- Dining out: ~$8-10 per meal
+- Total living costs: ~$800/month excluding rent
+
+**Best Neighborhoods:**
+- Cabo Branco (beachfront, safe, walkable)
+- Manaira (central, good infrastructure)
+- Tambau (tourist area, restaurants)
+
+**For Families:** Excellent - calm beaches, low crime, family-oriented culture
+
+---
+
+### 2. Natal, Rio Grande do Norte
+
+**Why Choose Natal:**
+- Known as "City of the Sun" - 300+ sunny days/year
+- Stunning sand dunes and beaches
+- Very affordable cost of living
+- Good internet infrastructure
+- Less crowded than southern cities
+- Easy access to famous Pipa Beach
+
+**Monthly Costs:**
+- Rent: $450-700 USD (furnished 2BR)
+- Groceries: ~$180/month
+- Total living costs: ~$850/month excluding rent
+
+**Best Neighborhoods:**
+- Ponta Negra (main beach area, tourist-friendly)
+- Petrópolis (residential, safe, quieter)
+- Tirol (central, good services)
+
+**For Families:** Great beaches with calm waters, buggy rides on dunes, very kid-friendly
+
+---
+
+### 3. Fortaleza, Ceara
+
+**Why Choose Fortaleza:**
+- Major city with full infrastructure
+- Excellent beaches and beach culture
+- Hub for kitesurfing and water sports
+- Good nightlife and restaurants
+- Direct flights to many destinations
+- Gateway to Jericoacoara (world-famous beach town)
+
+**Monthly Costs:**
+- Rent: $500-800 USD (furnished 2BR)
+- Groceries: ~$200/month
+- Total living costs: ~$900/month excluding rent
+
+**Best Neighborhoods:**
+- Meireles (beachfront, upscale, safe)
+- Aldeota (residential, central)
+- Mucuripe (near beach, affordable)
+
+**For Families:** Urban amenities, shopping malls, hospitals, while still having beach lifestyle
+
+---
+
+### Comparison: Which City to Choose?
+
+| Factor | Florianopolis | Joao Pessoa | Natal | Fortaleza |
+|--------|---------------|-------------|-------|-----------|
+| **Cost** | $$$$ | $ | $$ | $$ |
+| **Internet** | Excellent | Excellent | Good | Good |
+| **Safety** | Excellent | Very Good | Good | Good |
+| **Beaches** | 42 beaches | Beautiful | Stunning | Great |
+| **Expat Scene** | Large | Growing | Small | Medium |
+| **Weather (Feb-May)** | Warm/Rain | Hot/Dry | Hot/Dry | Hot/Some Rain |
+| **Best For** | Tech workers | Budget travelers | Nature lovers | Urban + Beach |
+
+---
+
 ## Accommodation Booking
 
 ### Airbnb Long-Term Rentals
@@ -213,6 +302,13 @@
 
 ### Recommended Companies
 
+**Unidas (Best Budget Option)**
+- Website: [unidas.com.br](https://www.unidas.com.br)
+- Cheapest rates among major rental companies
+- Monthly rental programs available
+- Good vehicle selection
+- Starting from ~$12-25/day = $360-750/month
+
 **Localiza (Largest in Brazil)**
 - Website: [localiza.com](https://www.localiza.com/others/en-us)
 - Monthly rental program available
@@ -226,19 +322,19 @@
 
 ### Booking Tips
 
-- Book directly with Localiza/Movida for monthly rates
+- Book directly with Unidas/Localiza/Movida for monthly rates
 - Request SUV or wagon for: 2 adults + baby seat + 2 dog crates + luggage
 - Confirm pet policy (most allow with cleaning fee)
 - International Driving Permit NOT required (Canadian license works)
 - Book in advance for better rates
 
-### Estimated Costs
+### Estimated Costs (Unidas Budget Rates)
 
 | Rental Type | Daily Rate | Monthly Rate |
 |-------------|-----------|--------------|
-| Economy | $15-25 | $450-750 |
-| Compact SUV | $25-40 | $750-1,200 |
-| Full-size SUV | $40-60 | $1,200-1,800 |
+| Economy | $12-20 | $360-600 |
+| Compact SUV | $20-35 | $600-1,050 |
+| Full-size SUV | $35-50 | $1,050-1,500 |
 
 ---
 
